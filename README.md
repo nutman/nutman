@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vladimir.CEO & Co-founder JSDaddy</h1>
+<h1 align="center">Hi 👋, Passionate engineer of complex web CRM applications</h1>
 <h3 align="center">I have near 9 years of commertial experience in software development. I took part in number of projects of various size and complexity as the key developer and ran more than 4 projects in the team lead role. Mostly my experience is strong in next areas: Angular, REDUX (NgRx), RxJs (rx.js) and other technologies. After years in development my specialization is development of CRM systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nutman&label=Profile%20views&color=0e75b6&style=flat" alt="nutman" /> </p>
